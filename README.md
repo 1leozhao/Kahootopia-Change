@@ -2,7 +2,7 @@
 ### leo.zhao@vanderbilt.edu
 ### Kahootopia! - A geography trivia game based off of Kahoot!
 
-### How to play
+## How to play
 ### Requirements - React, Node.js, npm, Material-UI, Axios, TypeScript
 ### In terminal, CD to geographygame/geography-trivia/server and run command in terminal to start the backend server - 'node server.js'
 ### In terminal, CD to geographygame/geography-trivia and run command in terminal to start the frontend development server - 'npm start'
