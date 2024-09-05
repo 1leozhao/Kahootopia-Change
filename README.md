@@ -5,5 +5,5 @@
 ### Requirements - React, Node.js, npm, Material-UI, Axios, TypeScript. 
 ### Instructions: Clone the repo. In terminal, cd to /geography-trivia/server and run command in terminal to start the backend server - 'node server.js'. In a new terminal, cd to /geography-trivia and run command in terminal to start the frontend development server - 'npm start'. You can play the game in any browser - 'localhost:3000'
 
-### Reflection: I liked making this program, it took me a little more than 5 hours. I used React for the frontend, and also incorporated the Material-UI component library. I used node.js for the backend.
+### Reflection: I liked making this program, it took me a little more than 5 hours to try and make it as close to actual Kahoot as possible. I used React for the frontend, and also incorporated the Material-UI component library. I used node.js for the backend.
 ### I took sound effects from Kahoot, Khan Academy, and Toontown Rewritten.
