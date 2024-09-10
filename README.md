@@ -12,16 +12,17 @@
   
 ### Setup Instructions: 
 1. Clone the repo.
+   ```git clone https://github.com/1leozhao/Kahootopia-Change ```
   
-2. Start the backend server:
+3. Start the backend server:
    ```cd /geography-trivia/server
    node server.js```
    
-3. Start the frontend development server:
+4. Start the frontend development server:
    ```cd /geography-trivia
    npm start```
 
-4. Access the specified port. [localhost:3000](http://localhost:3000/)
+5. Access the specified port. [localhost:3000](http://localhost:3000/)
 
 ### Reflection:
 I liked making this program, it took me a little more than 5 hours to try and make it as close to actual Kahoot as possible. I used React for the frontend, and also incorporated the Material-UI component library. I used node.js for the backend. I took sound effects from Kahoot, Khan Academy, and Toontown Rewritten.
