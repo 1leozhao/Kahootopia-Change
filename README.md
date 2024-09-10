@@ -2,13 +2,26 @@
 ### leo.zhao@vanderbilt.edu
 ### Kahootopia! - A geography trivia game based off of Kahoot!
 
-### Requirements - React, Node.js, npm, Material-UI, Axios, TypeScript. 
+### Requirements
+- React
+- Node.js
+- npm
+- Material-UI
+- Axios
+- TypeScript
+  
 ### Setup Instructions: 
 1. Clone the repo.
   
-2. ```cd /geography-trivia/server
+2. Start the backend server:
+   ```cd /geography-trivia/server
    node server.js```
-4. . In a new terminal, cd to /geography-trivia and run command in terminal to start the frontend development server - 'npm start'. You can play the game in any browser - 'localhost:3000'
+   
+3. Start the frontend development server:
+   ```cd /geography-trivia
+   npm start```
 
-### Reflection: I liked making this program, it took me a little more than 5 hours to try and make it as close to actual Kahoot as possible. I used React for the frontend, and also incorporated the Material-UI component library. I used node.js for the backend.
-### I took sound effects from Kahoot, Khan Academy, and Toontown Rewritten.
+4. Access the specified port. [localhost:3000](http://localhost:3000/)
+
+### Reflection:
+I liked making this program, it took me a little more than 5 hours to try and make it as close to actual Kahoot as possible. I used React for the frontend, and also incorporated the Material-UI component library. I used node.js for the backend. I took sound effects from Kahoot, Khan Academy, and Toontown Rewritten.
