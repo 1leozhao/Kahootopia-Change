@@ -12,7 +12,8 @@
   
 ### Setup Instructions: 
 1. Clone the repo.
-   ```git clone https://github.com/1leozhao/Kahootopia-Change```
+   ```git clone https://github.com/1leozhao/Kahootopia-Change
+   ```
   
 3. Start the backend server:
    ```cd /geography-trivia/server
