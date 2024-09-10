@@ -12,15 +12,21 @@
   
 ### Setup Instructions: 
 1. Clone the repo.
-   ```git clone https://github.com/1leozhao/Kahootopia-Change
+   ```
+   git clone https://github.com/1leozhao/Kahootopia-Change
+   ```
   
 3. Start the backend server:
-   ```cd /geography-trivia/server
+   ```
+   cd /geography-trivia/server
    node server.js
+   ```
    
 4. Start the frontend development server:
-   ```cd /geography-trivia
+   ```
+   cd /geography-trivia
    npm start
+   ```
 
 5. Access the specified port. [localhost:3000](http://localhost:3000/)
 
